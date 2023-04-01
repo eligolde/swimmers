@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Amy Van Dyken</title>
+
+	<!-- note the special href for files in the Flask "static" folder -->
+	<link rel="stylesheet" href="../static/css/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+  <!-- Jinja directives: page contents will go between them -->
+  
+
+<!-- the full dict for a swimmer is sent here as pres by the route -->
+
+<h1>Amy Van Dyken</h1>
+
+<!-- NOTE the pattern for pointing to a file inside the static folder -->
+<img class="right" src="../static/images/swim28.jpeg" alt="Swimmer portrait">
+
+<p>Amy Van Dyken is a female Olympic swimmer who represented the United States.
+
+	
+		 She has won 6 Olympic medals, including 6 gold, 0 silver and 0 bronze. This places her 28th all-time among the most decorated Olympic swimmers. The stroke she was most well-known for was butterfly. She competed at her first Olympics in 1996 and her last in 2000.
+  
+
+</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Amy_Van_Dyken">View Wikipedia entry for Amy Van Dyken.</a></p>
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="../index.html">Return to the list</a> to select a different swimmer.</p>
+
+
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h1>The Most Decorated Olympic Swimmers in History!</h1>
+
+<p>Click any swimmer's name to learn more.</p>
+
+<!-- pairs is a list that must be sent here by a route function
+     The list will contain 34 pairs: a rank and a
+     swimmer's name -->
+
+    <ul>
+    {% for pair in pairs %}
+        <li><a href="{{ url_for( 'detail', num=pair[0] ) }}">{{ pair[1] }}</a></li>
+    {% endfor %}
+    </ul>
+
+{% endblock %}

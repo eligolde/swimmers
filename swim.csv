@@ -1,0 +1,35 @@
+﻿Order,Rank,Athlete,Wikipedia-link,Gender,Country,Total-medals,Gold,Silver,Bronze,First-Olympics,Last-Olympics,Best-Stroke,Image
+1,1,Michael Phelps,https://en.wikipedia.org/wiki/Michael_Phelps,male,the United States,28,23,3,2,2004,2016,butterfly,swim01.jpeg
+2,2,Jenny Thompson,https://en.wikipedia.org/wiki/Jenny_Thompson,female,the United States,12,8,3,1,1992,2004,freestyle,swim02.jpeg
+3,3,Ryan Lochte,https://en.wikipedia.org/wiki/Ryan_Lochte,male,the United States,12,6,3,3,2004,2016,backstroke,swim03.jpeg
+4,4,Dara Torres,https://en.wikipedia.org/wiki/Dara_Torres,female,the United States,12,4,4,4,1984,2008,butterfly,swim04.jpeg
+5,5,Natalie Coughlin,https://en.wikipedia.org/wiki/Natalie_Coughlin,female,the United States,12,3,4,5,2004,2012,backstroke,swim05.jpeg
+6,6,Mark Spitz,https://en.wikipedia.org/wiki/Mark_Spitz,male,the United States,11,9,1,1,1968,1972,butterfly,swim06.jpeg
+7,7,Matt Biondi,https://en.wikipedia.org/wiki/Matt_Biondi,male,the United States,11,8,2,1,1984,1992,freestyle,swim07.jpeg
+8,8,Emma McKeon,https://en.wikipedia.org/wiki/Emma_McKeon,female,Australia,11,5,2,4,2016,2020,freestyle,swim08.jpeg
+9,9,Katie Ledecky,https://en.wikipedia.org/wiki/Katie_Ledecky,female,the United States,10,7,3,0,2012,2020,freestyle,swim09.jpeg
+10,10,"Gary Hall, Jr.",https://en.wikipedia.org/wiki/Gary_Hall_Jr.,male,the United States,10,5,3,2,1996,2004,freestyle,swim10.jpeg
+11,11,Allison Schmitt,https://en.wikipedia.org/wiki/Allison_Schmitt,female,the United States,10,4,3,3,2008,2020,freestyle,swim11.jpeg
+12,12,Ian Thorpe,https://en.wikipedia.org/wiki/Ian_Thorpe,male,Australia,9,5,3,1,2000,2004,freestyle,swim12.jpeg
+13,13,Alexander Popov,https://en.wikipedia.org/wiki/Alexander_Popov_(swimmer),male,Russia,9,4,5,0,1992,2000,freestyle,swim13.jpeg
+14,14,Nathan Adrian,https://en.wikipedia.org/wiki/Nathan_Adrian,male,the United States,8,5,1,2,2008,2016,freestyle,swim14.jpeg
+15,15,Dawn Fraser,https://en.wikipedia.org/wiki/Dawn_Fraser,female,Australia,8,4,4,0,1956,1964,freestyle,swim15.jpeg
+16,16,Kornelia Ender,https://en.wikipedia.org/wiki/Kornelia_Ender,female,East Germany,8,4,4,0,1972,1976,freestyle,swim16.jpeg
+17,17,Inge de Bruijn,https://en.wikipedia.org/wiki/Inge_de_Bruijn,female,Netherlands,8,4,2,2,2000,2004,freestyle,swim17.jpeg
+18,18,Jason Lezak,https://en.wikipedia.org/wiki/Jason_Lezak,male,the United States,8,4,2,2,2000,2012,freestyle,swim18.jpeg
+19,19,Roland Matthes,https://en.wikipedia.org/wiki/Roland_Matthes,male,East Germany,8,4,2,2,1968,1976,backstroke,swim19.jpeg
+20,20,Cate Campbell,https://en.wikipedia.org/wiki/Cate_Campbell,female,Australia,8,4,1,3,2008,2020,freestyle,swim20.jpeg
+21,21,Caeleb Dressel,https://en.wikipedia.org/wiki/Caeleb_Dressel,male,the United States,7,7,0,0,2016,2020,butterfly,swim21.jpeg
+22,22,Aaron Peirsol,https://en.wikipedia.org/wiki/Aaron_Peirsol,male,the United States,7,5,2,0,2000,2008,backstroke,swim22.jpeg
+23,23,Tom Jager,https://en.wikipedia.org/wiki/Tom_Jager,male,the United States,7,5,1,1,1984,1992,freestyle,swim23.jpeg
+24,24,Kristztina Egerszegi,https://en.wikipedia.org/wiki/Krisztina_Egerszegi,female,Hungary,7,5,1,1,1988,1996,backstroke,swim24.jpeg
+25,25,Dana Vollmer,https://en.wikipedia.org/wiki/Dana_Vollmer,female,the United States,7,5,1,1,2004,2016,butterfly,swim25.jpeg
+26,26,Libby Trickett,https://en.wikipedia.org/wiki/Libby_Trickett,female,Australia,7,4,1,2,2004,2012,freestyle,swim26.jpeg
+27,27,Kristin Otto,https://en.wikipedia.org/wiki/Kristin_Otto,female,East Germany,6,6,0,0,1988,1988,freestyle,swim27.jpeg
+28,28,Amy Van Dyken,https://en.wikipedia.org/wiki/Amy_Van_Dyken,female,the United States,6,6,0,0,1996,2000,butterfly,swim28.jpeg
+29,29,Don Schollander,https://en.wikipedia.org/wiki/Don_Schollander,male,the United States,6,5,1,0,1964,1968,freestyle,swim29.jpeg
+30,30,Missy Franklin,https://en.wikipedia.org/wiki/Missy_Franklin,female,the United States,6,5,0,1,2012,2016,backstroke,swim30.jpeg
+31,31,Matt Grevers,https://en.wikipedia.org/wiki/Matt_Grevers,male,the United States,6,4,2,0,2008,2012,backstroke,swim31.jpeg
+32,32,Johnny Weissmuller,https://en.wikipedia.org/wiki/Johnny_Weissmuller,male,the United States,5,5,0,0,1924,1928,freestyle,swim32.jpeg
+33,33,Janet Evans,https://en.wikipedia.org/wiki/Janet_Evans,female,the United States,5,4,1,0,1988,1996,freestyle,swim33.jpeg
+34,34,Yana Klochkova,https://en.wikipedia.org/wiki/Yana_Klochkova,female,Ukraine,5,4,1,0,2000,2004,freestyle,swim34.jpeg

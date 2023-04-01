@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Roland Matthes</title>
+
+	<!-- note the special href for files in the Flask "static" folder -->
+	<link rel="stylesheet" href="../static/css/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+  <!-- Jinja directives: page contents will go between them -->
+  
+
+<!-- the full dict for a swimmer is sent here as pres by the route -->
+
+<h1>Roland Matthes</h1>
+
+<!-- NOTE the pattern for pointing to a file inside the static folder -->
+<img class="right" src="../static/images/swim19.jpeg" alt="Swimmer portrait">
+
+<p>Roland Matthes is a male Olympic swimmer who represented East Germany.
+
+	
+		 He has won 8 Olympic medals, including
+		 4 gold, 2 silver and 2 bronze. This places him 19th all-time among the most decorated Olympic swimmers. The stroke he was most well-known for was backstroke. He competed at his first Olympics in 1968 and his last in 1976.
+  
+
+</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Roland_Matthes">View Wikipedia entry for Roland Matthes.</a></p>
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="../index.html">Return to the list</a> to select a different swimmer.</p>
+
+
+
+</div>
+
+</body>
+</html>

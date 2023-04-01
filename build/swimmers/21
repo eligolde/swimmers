@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Caeleb Dressel</title>
+
+	<!-- note the special href for files in the Flask "static" folder -->
+	<link rel="stylesheet" href="../static/css/main.css">
+
+</head>
+<body>
+
+<div id="container">
+
+  <!-- Jinja directives: page contents will go between them -->
+  
+
+<!-- the full dict for a swimmer is sent here as pres by the route -->
+
+<h1>Caeleb Dressel</h1>
+
+<!-- NOTE the pattern for pointing to a file inside the static folder -->
+<img class="right" src="../static/images/swim21.jpeg" alt="Swimmer portrait">
+
+<p>Caeleb Dressel is a male Olympic swimmer who represented the United States.
+
+	
+		 He has won 7 Olympic medals, including
+		 7 gold, 0 silver and 0 bronze. This places him 21st all-time among the most decorated Olympic swimmers. The stroke he was most well-known for was butterfly. He competed at his first Olympics in 2016 and his last in 2020.
+  
+
+</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Caeleb_Dressel">View Wikipedia entry for Caeleb Dressel.</a></p>
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="../index.html">Return to the list</a> to select a different swimmer.</p>
+
+
+
+</div>
+
+</body>
+</html>
